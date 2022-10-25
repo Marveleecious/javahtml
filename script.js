@@ -1,0 +1,4 @@
+let main = document.createElement('p');
+main.innerText = 'My name is Richard Timilehin Marvel, i am from ondo state presently living in osogbo with my family. I attented El-shaddai Comprehensive High School Osogbo. I was in Commercial Department because of my future dream of becoming an Accountant. My father works in lagos as an accountant and my mother works as a business woman. i have two brothers and a sister. I am currently learning web development at oic hub orita sabon, Hopefully. my time here will not be a waste. i am fully sure that this period will be profitable to me in the nearest future and i am currently processing my admission in uni-osun. i love watching football and i am a fan of Chelsea Football Club which is currently the best thing in the world, although i know some people will not agree with me, but the truth is the truth.';
+ let divInput= document.querySelector('#main');
+ divInput.appendChild(main)
